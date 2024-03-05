@@ -1,4 +1,4 @@
-## Olá, eu sou Diego Amorim de Sousa, Analista e Desenvolvedor de Sistemas!
+## Olá, me chamo Diego Amorim de Sousa, Desenvolvedor FullStack!
 
 <div align="left">
   <a href="https://github.com/DiegoAmorimDeSousa">
@@ -13,6 +13,8 @@
   <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Diego-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Diego-Discord" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" />
+  <img align="center" alt="Diego-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
 </div>
   
 ##
