@@ -1,6 +1,6 @@
 ## Olá, me chamo Diego Amorim de Sousa, Desenvolvedor FullStack!
 
-<div align="left" style="display: flex; flex-direction: column;">
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
   <img src="https://github-readme-stats.vercel.app/api?username=DiegoAmorimDeSousa&hide=contribs,issues,stars&count_private=true&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoAmorimDeSousa&hide=contribs,issues,stars&count_private=true&show_icons=true&theme=radical" />
 </div>
